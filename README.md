@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calluumm
 - 👀 I’m interested in rocks nd stuff
-- 🌱 I’m currently learning py + js + C++
+- 🌱 I’m currently learning py + js + r
 - 📫 How to reach me .calluum @ discord
 
 <!---
