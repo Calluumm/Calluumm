@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Calluumm
-- 👀 I’m interested in rocks nd stuff
+- 👀 I’m interested in the environment and stuff
 - 🌱 I’m currently doing py + js + r
 - 📫 How to reach me .calluum @ discord or ayscough682@gmail.com @ email
 
