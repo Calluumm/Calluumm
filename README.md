@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Callum
-- 👀 I’m interested in the environment and climate and stuff
-- 🌱 I’m currently doing r + f90 + py + js
+- 👀 I’m interested in the Philippines and the climate and stuff
+- 🌱 I quite like f90 + r + py
 - 📫 How to reach me ayscough682@gmail.com via email
 
 <!---
